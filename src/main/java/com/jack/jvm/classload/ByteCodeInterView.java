@@ -1,4 +1,4 @@
-package com.jack.jvm;
+package com.jack.jvm.classload;
 
 public class ByteCodeInterView {
     public static void main(String[] args) {

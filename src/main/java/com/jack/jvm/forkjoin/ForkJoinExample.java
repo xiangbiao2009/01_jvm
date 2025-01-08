@@ -1,4 +1,4 @@
-package com.jack.jvm;
+package com.jack.jvm.forkjoin;
 
 import java.util.concurrent.RecursiveTask;
 import java.util.concurrent.ForkJoinPool;

@@ -1,4 +1,4 @@
-package com.jack.jvm;
+package com.jack.jvm.classload;
 
 import sun.misc.Launcher;
 
